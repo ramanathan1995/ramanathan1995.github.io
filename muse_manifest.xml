@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rcskhidmat.com" resolutions="1x" timestamp="1533363351344">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rcskhidmat.com" resolutions="1x" timestamp="1533438246639">
   <folder name="css">
     <file name="site_global.css" crc="226455819"/>
-    <file name="index.css" crc="4032093203" ref="index"/>
-    <file name="nomq_index.css" crc="3822499646" ref="index"/>
+    <file name="index.css" crc="240339940" ref="index"/>
+    <file name="nomq_index.css" crc="444787464" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -50,12 +50,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ekoc_08_entrance_hr.jpg" crc="43384465" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="untitled_panorama2-copy.jpg" crc="3784547625" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -66,6 +60,12 @@
     <file name="rcs new-u865-32.png" crc="238739784" ref="index"/>
     <file name="rcs new-u865-33.png" crc="3982320903" ref="index"/>
     <file name="rcs new-u865-34.png" crc="520523188" ref="index"/>
+    <file name="dji_0014-768x576.jpg" crc="3777754646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="299110752" seo="true" mt="1533363250083" redirect="true"/>
+  <file name="index.html" crc="84276640" seo="true" mt="1533438010548" redirect="true"/>
 </manifest>
